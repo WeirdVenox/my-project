@@ -1,0 +1,27 @@
+.hp {
+    color: rgb(76, 10, 56);
+    width: 18.5%;
+    border: 3px solid rgb(17, 39, 105); 
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(33, 21, 21);
+    padding: 5px;
+    margin-left: 453px;
+    }
+.hd{
+    color: rgb(4, 35, 61);
+    width: 18.5%;
+    border: 2px solid rgb(51, 62, 9);
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(29, 21, 21);
+    padding: 5px;
+    margin-left: 453px;
+}
+.puju{
+    color: aliceblue;
+    border: 5px solid royalblue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 4px 6px rgba(222, 24, 24, 0.621) ;
+    
+}
